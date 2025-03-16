@@ -32,7 +32,7 @@ a {
     text-align: center;
 
     /* Multiple Backgrounds with Multiply Blend Mode */
-    background: url("pics/banner1.jpg") center/cover no-repeat; /* Background Image */
+    background: url("pics/banner.jpg") center/cover no-repeat; /* Background Image */
     background-blend-mode: multiply;
     background-color:lightcyan; 
 }
