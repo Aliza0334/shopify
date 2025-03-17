@@ -30,7 +30,7 @@ a {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background: url("pics/girl.jpg") center/cover no-repeat; /* Background Image */
+    background: url("pics/banner.png") center/cover no-repeat; /* Background Image */
     background-blend-mode: multiply;
     background-color:lightcyan; 
 }
